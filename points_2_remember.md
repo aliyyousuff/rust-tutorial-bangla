@@ -1,0 +1,1 @@
+explain abstraction from hardware and software perspective. 
