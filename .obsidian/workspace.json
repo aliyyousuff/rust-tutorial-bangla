@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a01fd64f06499b3",
@@ -164,6 +165,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce70ba30d5f38fe0",
+  "active": "71e1b8c5e9254643",
   "lastOpenFiles": []
 }
